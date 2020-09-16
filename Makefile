@@ -43,7 +43,7 @@ VB_FILE =
 VB_FUNC =
 
 
-.PHONY: all build update clean todo test gotest interpreter server dev check checklist parser tidy
+.PHONY: all build update clean todo test gotest interpreter server dev check checklist parser tidy fmt
 
 default: server buildsucc
 
